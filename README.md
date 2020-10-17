@@ -1,5 +1,7 @@
 # Covid-19
 ### !!! NOTE: data at the beginning of the pandemic were not realiable at all! This is just an exercise to practise with data, machine learning and time series
+### It is also important to note that the exponential model was not fit on training data. If there was more reliable data for a longer period of time I could have split the pre-lockdown-period in two chunks , let´s say 20 and 80% of the data each and check if an exponential model trained on the first 20% would fit the remaining 80% before diverging from the actual data due to the action of the lockdown measure. 
+
 
 Models of pre and after lockdown spread of Covid-19 in the UK.
 
