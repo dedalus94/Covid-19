@@ -1,5 +1,5 @@
 # Covid-19
-# !!! NOTE: data at the beginning of the pandemic were not realiable at all! This is just an exercise to practise with data, machine learning and time series
+### !!! NOTE: data at the beginning of the pandemic were not realiable at all! This is just an exercise to practise with data, machine learning and time series
 
 Models of pre and after lockdown spread of Covid-19 in the UK.
 
@@ -24,4 +24,4 @@ I have used sci-kit learn to fit a linear model on the two portions of the datas
 The data refers to the period between the 30th of January 2020 to the 29th of July 2020 (180 days).
 
 
-# !!! NOTE: data at the beginning of the pandemic were not realiable at all! This is just an exercise to practise with data, machine learning and time series
+### !!! NOTE: data at the beginning of the pandemic were not realiable at all! This is just an exercise to practise with data, machine learning and time series
