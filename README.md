@@ -13,7 +13,7 @@ csv file is:   covid-19-uk-historical-data.csv
 
 The blue and the red vertical lines mark the date of the lockdown and 5 days later , roughly the incubation period for Covid-19.
 
-I have used sci-kit learn to fit a linear model on the two portions of the dataset (pre and after the lockdown) assuming an exponential progression and a linear one in the two cases. 
+I have used sci-kit learn to fit a linear model on the two portions of the dataset (pre and post-lockdown) assuming an exponential progression and a linear one in the two cases. 
 In order to fit the linear model on the datapoints referring to an exponential growth of the epidemic, I have taken the logarithm of the datapoints and then exponentiate predictions of the model that I have fit on them. 
 
 The data refers to the period between the 30th of January 2020 to the 29th of July 2020 (180 days).
