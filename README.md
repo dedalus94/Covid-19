@@ -1,5 +1,5 @@
 # Covid-19 spread in the UK
-#### Any conclusions from this work have no **scientific value**. Other models better predict/analyse the spread of infectious diseases, such as the SIR model: https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+#### Any conclusion from this work has no **scientific value**, I am not an epidemiologist or specialised in modelling the spread of infectious diseases. Other models better predict/analyse the spread of infectious diseases, such as the SIR model: https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology (as opposed to this approach which simply consists in assuming the same exponential growth observed during the first period of the epidemic.)
 
 ## How to navigate the notebook, file source, general ideas behind this work: 
 
