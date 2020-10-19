@@ -40,3 +40,12 @@ Nevertheless it is also important to notice that when London emerged from the lo
 I did not investigate other interventions due to lack of time. It would be interesting to repeat the analysis with the data from the second wave, mass testing will mean more robust and reliable data and a different range of approaches has been used in different areas of England over the last few months, unfortunately this dataset only covers the period between the end of January 2020 and the end of July 2020. 
 
 ## Comments are very appreciated. 
+
+
+Update 20/10/20:
+
+More on mathematical models:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5348083/
+
+Paper trying to explain the linear growth:
+https://www.pnas.org/content/117/37/22684
