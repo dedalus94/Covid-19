@@ -34,7 +34,7 @@ My findings are that lockdown quickly and effectively stopped exponential growth
 
 I could not find any correlation between masks being made compulsory on London´s public transport network and the the spread of the disease. 
 
-It is hard to estimate the real effect of masks and disentangle it from the effect of social ditancing, behaviour and other measures. 
+It is hard to estimate the real effect of masks and disentangle it from the effect of social ditancing, changes in behaviour and other measures. 
 Nevertheless it is also important to notice that when London emerged from the lockdown, with masks on public transport and in shops and with social distancing, the rate of spreading of covid-19 did not go back to the pre-lockdown exponential growth, but stayed linear.
 
 I did not investigate other interventions due to lack of time. It would be interesting to repeat the analysis with the data from the second wave, mass testing will mean more robust and reliable data and a different range of approaches has been used in different areas of England over the last few months, unfortunately this dataset only covers the period between the end of January 2020 and the end of July 2020. 
