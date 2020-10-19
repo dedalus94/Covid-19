@@ -1,5 +1,7 @@
 # Covid-19 spread in the UK
 #### Any conclusion from this work has no **scientific value**, I am not an epidemiologist or specialised in modelling the spread of infectious diseases. Other models better predict/analyse the spread of infectious diseases, such as the SIR model: https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5348083/
+https://www.pnas.org/content/117/37/22684
 
 This approach simply consists in assuming the same exponential growth observed during the first period of the epidemic, and it is not correct. The exponential growth will continue for a period of time which depends on, among other things, on RT.
 
