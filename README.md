@@ -28,7 +28,6 @@ The data refers to the period between the 30th of January 2020 to the 29th of Ju
 
 This notebook is meant to be an exercise for practicing with data analysis, Machine Learning, data visualisation and more aspects of Data Science / Machine Learning.
 
-#### Any conclusions from this work have no **scientific value**. Other models better predict/analyse the spread of infectious diseases, such as the SIR model: https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
 
 The **data regarding the first period of the pandemic are highly unreliable** due to fewer tests and less awareness of governments/public around Covid-19. 
 
