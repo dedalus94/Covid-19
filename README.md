@@ -9,7 +9,7 @@ https://www.pnas.org/content/117/37/22684
 
 This approach simply consists in assuming the same exponential growth observed during the first period of the epidemic to make predictions about an unmitigated spread of covid-19, and it is not correct. The exponential growth will only continue for a period of time which depends on, among other things, on RT.
 
-## How to navigate the notebook, file source, general ideas behind this work: 
+## How to navigate the notebook, file sources, general ideas behind this work: 
 
 I have analysed one of the dataset available on Kaggle regarding the spread of Covid-19 in England.
 
